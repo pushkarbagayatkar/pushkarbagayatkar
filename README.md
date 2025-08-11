@@ -1,18 +1,24 @@
-<!--
-## 👋 Hi, I'm Pushkar
-I'm a Data Analyst passionate about turning data into meaningful insights.
+# 👋 Hi, I'm Pushkar Bagayatkar
 
-### 🔧 Tools & Technologies
-- 📊 Power BI, Tableau
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 🧮 SQL, Excel
-- 📁 Git, GitHub, Jupyter
+🎯 **Aspiring Data Analyst** | Python | Power BI | SQL | Excel  
+Turning raw data into actionable insights and compelling stories.
 
-### 📌 Featured Projects
-- [Customer Churn Dashboard (Power BI)](link)
-- [Netflix EDA with Python](link)
-- [Sales Insights (Excel Dashboard)](link)
+---
+
+## 🛠 Tools & Technologies
+- **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
+- **Visualization**: Power BI, Tableau, Excel  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Others**: Git, Jupyter, APIs
+
+---
+
+## 📌 Featured Projects
+- [📊 Customer Churn Dashboard (Power BI)](link-to-repo)
+- [📈 Netflix Trends EDA (Python)](link-to-repo)
+- [🛒 E-commerce Sales Insights (SQL + Power BI)](link-to-repo)
+
+---
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pushkar-bagayatkar/)
 
--->
