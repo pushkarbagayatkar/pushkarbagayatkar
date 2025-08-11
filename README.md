@@ -13,6 +13,6 @@ I'm a Data Analyst passionate about turning data into meaningful insights.
 - [Netflix EDA with Python](link)
 - [Sales Insights (Excel Dashboard)](link)
 
-📫 Connect with me on [LinkedIn](your-linkedin-url)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pushkar-bagayatkar/)
 
 -->
