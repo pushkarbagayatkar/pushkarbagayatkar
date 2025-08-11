@@ -16,7 +16,7 @@ Turning raw data into actionable insights and compelling stories.
 ## 📌 Featured Projects
 - [📊 E-Commerce Sales Report (Power BI)](https://github.com/pushkarbagayatkar/ecommerce-sales-report-powerbi)
 - [👥 Employee Performance Report (Power BI)](https://github.com/pushkarbagayatkar/employee-performance-report-powerbi)
-- [🛒 E-commerce Sales Insights (SQL + Power BI)](link-to-repo)
+<!-- - [🛒 E-commerce Sales Insights (SQL + Power BI)](link-to-repo) -->
 
 ---
 
