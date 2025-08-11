@@ -1,16 +1,18 @@
-## Hi there 👋
-
 <!--
-**pushkarbagayatkar/pushkarbagayatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Pushkar
+I'm a Data Analyst passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+### 🔧 Tools & Technologies
+- 📊 Power BI, Tableau
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🧮 SQL, Excel
+- 📁 Git, GitHub, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📌 Featured Projects
+- [Customer Churn Dashboard (Power BI)](link)
+- [Netflix EDA with Python](link)
+- [Sales Insights (Excel Dashboard)](link)
+
+📫 Connect with me on [LinkedIn](your-linkedin-url)
+
 -->
